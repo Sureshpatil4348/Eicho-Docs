@@ -1,0 +1,34 @@
+--- Sharpe Ratio Based Portfolio Distribution ---
+distribution_type,pair,weight_pct,Daily_Return_Pct,Daily_Volatility_Pct,Annual_Return_Pct,Annual_Volatility_Pct,sharpe_ratio
+Sharpe Ratio Based,AUDUSD_GBPNZD,2.9012,0.0003,0.0263,0.0789,0.4178,0.4006
+Sharpe Ratio Based,EURAUD_CADCHF,3.3256,0.0004,0.0279,0.0959,0.4430,0.4592
+Sharpe Ratio Based,EURGBP_GBPCHF,5.3325,0.0004,0.0170,0.0934,0.2691,0.7364
+Sharpe Ratio Based,EURCAD_CADJPY,4.4175,0.0003,0.0191,0.0873,0.3035,0.6100
+Sharpe Ratio Based,GBPNZD_NZDCHF,3.0816,0.0004,0.0323,0.1028,0.5125,0.4256
+Sharpe Ratio Based,EURAUD_AUDJPY,6.5603,0.0004,0.0146,0.0989,0.2316,0.9059
+Sharpe Ratio Based,GBPUSD_USDCHF,3.1692,0.0003,0.0261,0.0855,0.4145,0.4377
+Sharpe Ratio Based,EURAUD_AUDCHF,40.3256,0.0005,0.0029,0.1226,0.0467,5.5687
+Sharpe Ratio Based,USDJPY_EURCAD,3.9868,0.0005,0.0311,0.1283,0.4942,0.5506
+Sharpe Ratio Based,GBPUSD_USDCAD,3.4836,0.0003,0.0232,0.0837,0.3690,0.4811
+Sharpe Ratio Based,USDCAD_AUDCHF,3.5720,0.0003,0.0226,0.0836,0.3594,0.4933
+Sharpe Ratio Based,USDJPY_NZDUSD,19.8440,0.0006,0.0070,0.1439,0.1114,2.7403
+
+--- Inverse Volatility Based Portfolio Distribution ---
+distribution_type,pair,weight_pct,Daily_Return_Pct,Daily_Volatility_Pct,Annual_Return_Pct,Annual_Volatility_Pct,volatility
+Inverse Volatility Based,AUDUSD_GBPNZD,4.1094,0.0003,0.0263,0.0789,0.4178,886.3720
+Inverse Volatility Based,EURAUD_CADCHF,3.8758,0.0004,0.0279,0.0959,0.4430,939.7965
+Inverse Volatility Based,EURGBP_GBPCHF,6.3811,0.0004,0.0170,0.0934,0.2691,570.8134
+Inverse Volatility Based,EURCAD_CADJPY,5.6571,0.0003,0.0191,0.0873,0.3035,643.8721
+Inverse Volatility Based,GBPNZD_NZDCHF,3.3500,0.0004,0.0323,0.1028,0.5125,1087.2813
+Inverse Volatility Based,EURAUD_AUDJPY,7.4124,0.0004,0.0146,0.0989,0.2316,491.3926
+Inverse Volatility Based,GBPUSD_USDCHF,4.1427,0.0003,0.0261,0.0855,0.4145,879.2438
+Inverse Volatility Based,EURAUD_AUDCHF,36.7557,0.0005,0.0029,0.1226,0.0467,99.0980
+Inverse Volatility Based,USDJPY_EURCAD,3.4743,0.0005,0.0311,0.1283,0.4942,1048.3792
+Inverse Volatility Based,GBPUSD_USDCAD,4.6535,0.0003,0.0232,0.0837,0.3690,782.7342
+Inverse Volatility Based,USDCAD_AUDCHF,4.7772,0.0003,0.0226,0.0836,0.3594,762.4528
+Inverse Volatility Based,USDJPY_NZDUSD,15.4109,0.0006,0.0070,0.1439,0.1114,236.3541
+
+--- Final Portfolio Sharpe Ratios ---
+distribution_type,final_sharpe_ratio
+Sharpe Ratio Based,4.508177224838312
+Inverse Volatility Based,3.9864374826995372

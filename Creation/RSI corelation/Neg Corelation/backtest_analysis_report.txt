@@ -1,0 +1,1396 @@
+--- Analysis for: EURNZD_NZDCHF ---
+Pair: EURNZD_NZDCHF
+Sharpe Ratio: 0.20923139578158195
+Volatility: 1729.4743039347381
+Avg Trade Duration: 4 days 13:58:16.774193548
+Total Trades: 93
+Total Profit: 33653.01
+Profit Per Year:
+  2020: 3236.13
+  2021: 2060.25
+  2022: 7303.11
+  2023: 12239.82
+  2024: 2477.95
+  2025: 6335.75
+Total Buy Trades: 66
+Total Sell Trades: 27
+Profit Loss By Pair: 33653.01
+Max Loss: -16123.79
+Avg Win: 541.0521739130435
+Avg Loss: -16123.79
+
+--- Analysis for: XAUUSD_XAGUSD ---
+Pair: XAUUSD_XAGUSD
+Sharpe Ratio: -0.07715841729154535
+Volatility: 3697.060053055789
+Avg Trade Duration: 3 days 15:07:03.837209302
+Total Trades: 516
+Total Profit: -147193.8
+Profit Per Year:
+  2020: -26400.81
+  2021: 17334.89
+  2022: -32834.38
+  2023: -32600.13
+  2024: -4903.12
+  2025: -67790.25
+Total Buy Trades: 247
+Total Sell Trades: 269
+Profit Loss By Pair: -147193.8
+Max Loss: -15817.16
+Avg Win: 630.5039094650205
+Avg Loss: -15120.623333333331
+
+--- Analysis for: GBPAUD_AUDJPY ---
+Pair: GBPAUD_AUDJPY
+Sharpe Ratio: 0.16127244255999493
+Volatility: 1506.0775769763172
+Avg Trade Duration: 13 days 06:52:22.857142857
+Total Trades: 84
+Total Profit: 20402.659999999996
+Profit Per Year:
+  2021: 7073.97
+  2022: 7762.64
+  2023: 2530.62
+  2024: 3338.84
+  2025: -303.41
+Total Buy Trades: 42
+Total Sell Trades: 42
+Profit Loss By Pair: 20402.659999999996
+Max Loss: -8613.78
+Avg Win: 561.0755
+Avg Loss: -6120.845000000001
+
+--- Analysis for: EURGBP_GBPJPY ---
+Pair: EURGBP_GBPJPY
+Sharpe Ratio: 0.16114414692608808
+Volatility: 1323.3493370243923
+Avg Trade Duration: 18 days 05:43:30
+Total Trades: 70
+Total Profit: 14927.499999999996
+Profit Per Year:
+  2021: 2902.54
+  2022: -3820.76
+  2023: 13156.24
+  2024: -6012.37
+  2025: 8701.85
+Total Buy Trades: 36
+Total Sell Trades: 34
+Profit Loss By Pair: 14927.499999999996
+Max Loss: -6007.81
+Avg Win: 537.6821538461538
+Avg Loss: -4004.368
+
+--- Analysis for: GBPNZD_AUDCAD ---
+Pair: GBPNZD_AUDCAD
+Sharpe Ratio: 0.3419392303696997
+Volatility: 1080.1131595830127
+Avg Trade Duration: 6 days 22:49:45
+Total Trades: 160
+Total Profit: 59093.28999999999
+Profit Per Year:
+  2021: 19183.50
+  2022: 20014.45
+  2023: 23788.72
+  2024: -10192.54
+  2025: 6299.16
+Total Buy Trades: 76
+Total Sell Trades: 84
+Profit Loss By Pair: 59093.28999999999
+Max Loss: -9113.76
+Avg Win: 557.4546103896105
+Avg Loss: -4459.12
+
+--- Analysis for: USDCAD_NZDCHF ---
+Pair: USDCAD_NZDCHF
+Sharpe Ratio: 0.057864351926887214
+Volatility: 1658.8919407927226
+Avg Trade Duration: 12 days 13:12:13.333333333
+Total Trades: 99
+Total Profit: 9503.079999999998
+Profit Per Year:
+  2020: 9525.81
+  2021: 6064.40
+  2022: 14395.35
+  2023: -3045.24
+  2024: -15870.26
+  2025: -1566.98
+Total Buy Trades: 58
+Total Sell Trades: 41
+Profit Loss By Pair: 9503.079999999998
+Max Loss: -8093.08
+Avg Win: 554.5858241758242
+Avg Loss: -5120.5287499999995
+
+--- Analysis for: EURUSD_USDJPY ---
+Pair: EURUSD_USDJPY
+Sharpe Ratio: 0.1518257210595532
+Volatility: 1430.3067452977687
+Avg Trade Duration: 15 days 10:48:49.411764706
+Total Trades: 34
+Total Profit: 7383.349999999998
+Profit Per Year:
+  2020: 722.18
+  2023: 682.51
+  2024: 7061.26
+  2025: -1082.60
+Total Buy Trades: 10
+Total Sell Trades: 24
+Profit Loss By Pair: 7383.349999999998
+Max Loss: -6896.09
+Avg Win: 584.3280645161291
+Avg Loss: -3576.94
+
+--- Analysis for: NZDCAD_CADJPY ---
+Pair: NZDCAD_CADJPY
+Sharpe Ratio: 0.274002730877733
+Volatility: 1133.4610701745648
+Avg Trade Duration: 15 days 11:06:55.384615384
+Total Trades: 91
+Total Profit: 28262.0
+Profit Per Year:
+  2021: -4449.77
+  2022: 9359.43
+  2023: 3833.05
+  2024: 14220.36
+  2025: 5298.93
+Total Buy Trades: 44
+Total Sell Trades: 47
+Profit Loss By Pair: 28262.0
+Max Loss: -8300.51
+Avg Win: 526.8251724137931
+Avg Loss: -4392.9475
+
+--- Analysis for: EURCAD_CADCHF ---
+Pair: EURCAD_CADCHF
+Sharpe Ratio: 0.2010389209743947
+Volatility: 1302.8791166167591
+Avg Trade Duration: 12 days 05:12:38.823529411
+Total Trades: 68
+Total Profit: 17811.199999999997
+Profit Per Year:
+  2020: 2100.62
+  2021: -3703.38
+  2022: 10067.48
+  2023: 5807.78
+  2024: -1103.62
+  2025: 4642.32
+Total Buy Trades: 31
+Total Sell Trades: 37
+Profit Loss By Pair: 17811.199999999997
+Max Loss: -6926.63
+Avg Win: 568.73296875
+Avg Loss: -4646.9275
+
+--- Analysis for: AUDUSD_GBPNZD ---
+Pair: AUDUSD_GBPNZD
+Sharpe Ratio: 0.40064567265125717
+Volatility: 886.3719846267148
+Avg Trade Duration: 14 days 18:04:57
+Total Trades: 100
+Total Profit: 35512.10999999999
+Profit Per Year:
+  2020: 8491.46
+  2021: 12935.93
+  2022: 4713.41
+  2023: 5570.38
+  2024: 2765.80
+  2025: 1035.13
+Total Buy Trades: 51
+Total Sell Trades: 49
+Profit Loss By Pair: 35512.10999999999
+Max Loss: -5306.35
+Avg Win: 526.6805263157893
+Avg Loss: -2904.508
+
+--- Analysis for: GBPAUD_AUDCHF ---
+Pair: GBPAUD_AUDCHF
+Sharpe Ratio: 0.303359552487979
+Volatility: 1302.8556590222454
+Avg Trade Duration: 6 days 14:17:15.483870967
+Total Trades: 124
+Total Profit: 49008.98
+Profit Per Year:
+  2020: 11854.16
+  2021: 4995.96
+  2022: -5336.13
+  2023: 15647.01
+  2024: 11450.19
+  2025: 10397.79
+Total Buy Trades: 90
+Total Sell Trades: 34
+Profit Loss By Pair: 49008.98
+Max Loss: -13373.71
+Avg Win: 553.2011570247935
+Avg Loss: -5976.12
+
+--- Analysis for: EURNZD_NZDJPY ---
+Pair: EURNZD_NZDJPY
+Sharpe Ratio: 0.2174305759464418
+Volatility: 1627.4150192813638
+Avg Trade Duration: 8 days 05:38:45.806451612
+Total Trades: 93
+Total Profit: 32908.030000000006
+Profit Per Year:
+  2020: -424.84
+  2021: 3647.89
+  2022: 8055.10
+  2023: -3393.17
+  2024: 16196.17
+  2025: 8826.88
+Total Buy Trades: 49
+Total Sell Trades: 44
+Profit Loss By Pair: 32908.030000000006
+Max Loss: -15030.32
+Avg Win: 543.0705494505495
+Avg Loss: -8255.695
+
+--- Analysis for: USDCAD_NZDJPY ---
+Pair: USDCAD_NZDJPY
+Sharpe Ratio: 0.1823778513936025
+Volatility: 1136.9177206919576
+Avg Trade Duration: 19 days 17:41:31.666666666
+Total Trades: 72
+Total Profit: 14929.099999999999
+Profit Per Year:
+  2020: 6247.98
+  2021: -3238.64
+  2022: -2656.77
+  2023: 7265.14
+  2024: -1590.20
+  2025: 8901.59
+Total Buy Trades: 35
+Total Sell Trades: 37
+Profit Loss By Pair: 14929.099999999999
+Max Loss: -5586.79
+Avg Win: 518.3728787878788
+Avg Loss: -3213.9183333333335
+
+--- Analysis for: EURAUD_CADCHF ---
+Pair: EURAUD_CADCHF
+Sharpe Ratio: 0.4592457822301875
+Volatility: 939.7965351816326
+Avg Trade Duration: 7 days 18:37:01.518987341
+Total Trades: 158
+Total Profit: 68192.42
+Profit Per Year:
+  2020: 7629.56
+  2021: 6848.87
+  2022: 17169.07
+  2023: 15921.48
+  2024: 6099.31
+  2025: 14524.13
+Total Buy Trades: 84
+Total Sell Trades: 74
+Profit Loss By Pair: 68192.42
+Max Loss: -8454.71
+Avg Win: 564.0254545454545
+Avg Loss: -4666.875
+
+--- Analysis for: EURGBP_GBPCHF ---
+Pair: EURGBP_GBPCHF
+Sharpe Ratio: 0.7363943844996163
+Volatility: 570.8134277837103
+Avg Trade Duration: 15 days 14:57:53.239436619
+Total Trades: 71
+Total Profit: 29844.410000000003
+Profit Per Year:
+  2020: 1628.09
+  2021: 811.80
+  2022: 10926.99
+  2023: 15212.03
+  2024: 1062.84
+  2025: 202.66
+Total Buy Trades: 47
+Total Sell Trades: 24
+Profit Loss By Pair: 29844.410000000003
+Max Loss: -2447.96
+Avg Win: 547.5416417910446
+Avg Loss: -1710.2199999999998
+
+--- Analysis for: EURAUD_NZDCAD ---
+Pair: EURAUD_NZDCAD
+Sharpe Ratio: 0.1683963100584431
+Volatility: 1353.8901174311627
+Avg Trade Duration: 13 days 02:45:09
+Total Trades: 100
+Total Profit: 22799.010000000002
+Profit Per Year:
+  2021: 6506.14
+  2022: -4783.54
+  2023: 7486.32
+  2024: 14700.26
+  2025: -1110.17
+Total Buy Trades: 60
+Total Sell Trades: 40
+Profit Loss By Pair: 22799.010000000002
+Max Loss: -6935.4
+Avg Win: 541.6562765957448
+Avg Loss: -4686.113333333334
+
+--- Analysis for: EURUSD_USDCHF ---
+Pair: EURUSD_USDCHF
+Sharpe Ratio: -0.053801187244029186
+Volatility: 1705.4682418072355
+Avg Trade Duration: 28 days 14:17:58.378378378
+Total Trades: 37
+Total Profit: -3394.9800000000037
+Profit Per Year:
+  2020: -1891.85
+  2021: -2974.04
+  2022: -1941.76
+  2023: 4820.76
+  2024: -3999.39
+  2025: 2591.30
+Total Buy Trades: 18
+Total Sell Trades: 19
+Profit Loss By Pair: -3394.9800000000037
+Max Loss: -6195.64
+Avg Win: 523.86875
+Avg Loss: -4031.756
+
+--- Analysis for: GBPAUD_AUDNZD ---
+Pair: GBPAUD_AUDNZD
+Sharpe Ratio: 0.22090471589238528
+Volatility: 1166.4575845177485
+Avg Trade Duration: 14 days 00:53:30.280373831
+Total Trades: 107
+Total Profit: 27571.329999999998
+Profit Per Year:
+  2020: 15644.71
+  2021: -142.65
+  2022: 15873.06
+  2023: -1340.52
+  2024: 1999.07
+  2025: -4462.34
+Total Buy Trades: 64
+Total Sell Trades: 43
+Profit Loss By Pair: 27571.329999999998
+Max Loss: -6618.08
+Avg Win: 551.2175757575758
+Avg Loss: -3374.90125
+
+--- Analysis for: NZDUSD_EURNZD ---
+Pair: NZDUSD_EURNZD
+Sharpe Ratio: 0.20190819131617088
+Volatility: 1098.2769429293135
+Avg Trade Duration: 21 days 11:51:23.333333333
+Total Trades: 36
+Total Profit: 7983.04
+Profit Per Year:
+  2020: -992.52
+  2021: 1640.92
+  2022: -14.16
+  2023: 1125.33
+  2024: 3653.86
+  2025: 2569.61
+Total Buy Trades: 26
+Total Sell Trades: 10
+Profit Loss By Pair: 7983.04
+Max Loss: -4860.0
+Avg Win: 530.3187878787879
+Avg Loss: -3172.4933333333333
+
+--- Analysis for: EURCAD_CADJPY ---
+Pair: EURCAD_CADJPY
+Sharpe Ratio: 0.6100282108393693
+Volatility: 643.8720619342721
+Avg Trade Duration: 15 days 03:13:35.853658536
+Total Trades: 82
+Total Profit: 32207.970000000005
+Profit Per Year:
+  2020: 6302.47
+  2021: -10.15
+  2022: 12207.80
+  2023: 3201.02
+  2024: 6747.58
+  2025: 3759.25
+Total Buy Trades: 41
+Total Sell Trades: 41
+Profit Loss By Pair: 32207.970000000005
+Max Loss: -3609.31
+Avg Win: 524.965641025641
+Avg Loss: -2184.8375
+
+--- Analysis for: GBPUSD_USDJPY ---
+Pair: GBPUSD_USDJPY
+Sharpe Ratio: 0.18567387371510502
+Volatility: 1423.1070199401574
+Avg Trade Duration: 14 days 12:38:57.931034482
+Total Trades: 29
+Total Profit: 7662.78
+Profit Per Year:
+  2021: 652.06
+  2023: -2106.64
+  2024: 2456.64
+  2025: 6660.72
+Total Buy Trades: 15
+Total Sell Trades: 14
+Profit Loss By Pair: 7662.78
+Max Loss: -6564.95
+Avg Win: 607.2614814814814
+Avg Loss: -4366.639999999999
+
+--- Analysis for: USDCHF_AUDCAD ---
+Pair: USDCHF_AUDCAD
+Sharpe Ratio: 0.012640034036906599
+Volatility: 1876.6362653293882
+Avg Trade Duration: 19 days 04:49:37.611940298
+Total Trades: 67
+Total Profit: 1589.2900000000022
+Profit Per Year:
+  2021: 4601.76
+  2022: 3672.18
+  2023: 1292.16
+  2024: -48.50
+  2025: -7928.31
+Total Buy Trades: 43
+Total Sell Trades: 24
+Profit Loss By Pair: 1589.2900000000022
+Max Loss: -10488.89
+Avg Win: 520.1406557377048
+Avg Loss: -5023.215
+
+--- Analysis for: GBPCAD_CADCHF ---
+Pair: GBPCAD_CADCHF
+Sharpe Ratio: 0.25904898939075716
+Volatility: 1482.4031489068093
+Avg Trade Duration: 6 days 06:16:00.902255639
+Total Trades: 133
+Total Profit: 51074.00000000001
+Profit Per Year:
+  2020: 20454.85
+  2021: -2733.42
+  2023: 16937.25
+  2024: 12095.16
+  2025: 4320.16
+Total Buy Trades: 72
+Total Sell Trades: 61
+Profit Loss By Pair: 51074.00000000001
+Max Loss: -15087.97
+Avg Win: 554.037175572519
+Avg Loss: -10752.435
+
+--- Analysis for: GBPNZD_NZDCHF ---
+Pair: GBPNZD_NZDCHF
+Sharpe Ratio: 0.42555802593570596
+Volatility: 1087.2813421152755
+Avg Trade Duration: 2 days 12:35:20
+Total Trades: 315
+Total Profit: 145750.91
+Profit Per Year:
+  2020: 27952.92
+  2021: 29446.97
+  2022: 45846.53
+  2023: 31765.79
+  2024: 352.20
+  2025: 10386.50
+Total Buy Trades: 166
+Total Sell Trades: 149
+Profit Loss By Pair: 145750.91
+Max Loss: -15032.71
+Avg Win: 570.4534726688103
+Avg Loss: -7915.03
+
+--- Analysis for: USDJPY_AUDUSD ---
+Pair: USDJPY_AUDUSD
+Sharpe Ratio: 0.038869743970320156
+Volatility: 3649.625274308994
+Avg Trade Duration: 8 days 23:08:17.560975609
+Total Trades: 41
+Total Profit: 5816.260000000003
+Profit Per Year:
+  2020: 3719.09
+  2021: 3668.21
+  2022: 5017.82
+  2023: 6205.83
+  2024: -19709.43
+  2025: 6914.74
+Total Buy Trades: 22
+Total Sell Trades: 19
+Profit Loss By Pair: 5816.260000000003
+Max Loss: -15518.88
+Avg Win: 939.8653846153846
+Avg Loss: -15419.244999999999
+
+--- Analysis for: EURAUD_AUDJPY ---
+Pair: EURAUD_AUDJPY
+Sharpe Ratio: 0.9059438293124874
+Volatility: 491.3926366957713
+Avg Trade Duration: 9 days 23:09:40.952380952
+Total Trades: 63
+Total Profit: 28045.969999999998
+Profit Per Year:
+  2021: 1510.35
+  2022: 5720.69
+  2023: 10555.69
+  2024: 3824.01
+  2025: 6435.23
+Total Buy Trades: 33
+Total Sell Trades: 30
+Profit Loss By Pair: 28045.969999999998
+Max Loss: -2939.18
+Avg Win: 529.0468852459015
+Avg Loss: -2112.9449999999997
+
+--- Analysis for: EURNZD_AUDCAD ---
+Pair: EURNZD_AUDCAD
+Sharpe Ratio: 0.3333654021205991
+Volatility: 1039.607113616683
+Avg Trade Duration: 8 days 15:24:57.391304347
+Total Trades: 115
+Total Profit: 39855.44
+Profit Per Year:
+  2021: 1758.26
+  2022: 18449.36
+  2023: 18080.15
+  2024: -1860.47
+  2025: 3428.14
+Total Buy Trades: 61
+Total Sell Trades: 54
+Profit Loss By Pair: 39855.44
+Max Loss: -6486.63
+Avg Win: 550.8784545454545
+Avg Loss: -4148.238
+
+--- Analysis for: GBPUSD_USDCHF ---
+Pair: GBPUSD_USDCHF
+Sharpe Ratio: 0.4376528052228595
+Volatility: 879.2437887890378
+Avg Trade Duration: 10 days 19:48:52.978723404
+Total Trades: 94
+Total Profit: 36171.52999999999
+Profit Per Year:
+  2020: 5492.02
+  2021: 5582.47
+  2022: 8670.86
+  2023: 2717.62
+  2024: 10971.97
+  2025: 2736.59
+Total Buy Trades: 50
+Total Sell Trades: 44
+Profit Loss By Pair: 36171.52999999999
+Max Loss: -4847.31
+Avg Win: 542.0602197802198
+Avg Loss: -4385.316666666667
+
+--- Analysis for: EURAUD_AUDNZD ---
+Pair: EURAUD_AUDNZD
+Sharpe Ratio: 0.03891069516843732
+Volatility: 1947.6790179767686
+Avg Trade Duration: 16 days 00:50:11.881188118
+Total Trades: 101
+Total Profit: 7654.339999999996
+Profit Per Year:
+  2020: -5378.12
+  2021: -5713.11
+  2022: -4288.90
+  2023: 16095.22
+  2024: 9058.04
+  2025: -2118.79
+Total Buy Trades: 51
+Total Sell Trades: 50
+Profit Loss By Pair: 7654.339999999996
+Max Loss: -15235.61
+Avg Win: 539.7192391304347
+Avg Loss: -4666.647777777778
+
+--- Analysis for: GBPCAD_CADJPY ---
+Pair: GBPCAD_CADJPY
+Sharpe Ratio: 0.046332133303086706
+Volatility: 1940.473245039449
+Avg Trade Duration: 12 days 17:55:14.457831325
+Total Trades: 83
+Total Profit: 7462.220000000002
+Profit Per Year:
+  2020: 21165.47
+  2021: -6941.63
+  2023: 1213.24
+  2024: -12263.03
+  2025: 4288.17
+Total Buy Trades: 39
+Total Sell Trades: 44
+Profit Loss By Pair: 7462.220000000002
+Max Loss: -10631.54
+Avg Win: 542.6217948717949
+Avg Loss: -6972.456
+
+--- Analysis for: EURAUD_AUDCHF ---
+Pair: EURAUD_AUDCHF
+Sharpe Ratio: 5.568728476952119
+Volatility: 99.09800045501521
+Avg Trade Duration: 4 days 15:49:42.857142857
+Total Trades: 70
+Total Profit: 38629.490000000005
+Profit Per Year:
+  2020: 1037.81
+  2021: 2304.66
+  2022: 5546.78
+  2023: 8198.88
+  2024: 14439.14
+  2025: 7102.22
+Total Buy Trades: 53
+Total Sell Trades: 17
+Profit Loss By Pair: 38629.490000000005
+Max Loss: 0
+Avg Win: 551.8498571428572
+Avg Loss: 0
+
+--- Analysis for: GBPNZD_NZDJPY ---
+Pair: GBPNZD_NZDJPY
+Sharpe Ratio: 0.09319051384347375
+Volatility: 2089.17359997964
+Avg Trade Duration: 7 days 21:51:56.129032258
+Total Trades: 155
+Total Profit: 30177.129999999997
+Profit Per Year:
+  2020: 27154.19
+  2021: 2016.33
+  2022: 12682.19
+  2023: -3604.89
+  2024: 5110.43
+  2025: -13181.12
+Total Buy Trades: 76
+Total Sell Trades: 79
+Profit Loss By Pair: 30177.129999999997
+Max Loss: -16151.86
+Avg Win: 558.6362416107382
+Avg Loss: -8843.278333333334
+
+--- Analysis for: USDCHF_AUDUSD ---
+Pair: USDCHF_AUDUSD
+Sharpe Ratio: -0.00420763520152117
+Volatility: 1955.4714355433248
+Avg Trade Duration: 19 days 12:41:42.985074626
+Total Trades: 67
+Total Profit: -551.2700000000024
+Profit Per Year:
+  2020: -6716.24
+  2021: 5163.87
+  2022: -1585.93
+  2023: 10644.14
+  2024: -3154.68
+  2025: -4902.43
+Total Buy Trades: 36
+Total Sell Trades: 31
+Profit Loss By Pair: -551.2700000000024
+Max Loss: -8600.25
+Avg Win: 527.6624193548387
+Avg Loss: -6653.267999999999
+
+--- Analysis for: AUDUSD_EURNZD ---
+Pair: AUDUSD_EURNZD
+Sharpe Ratio: 0.2442155717319734
+Volatility: 992.1609736098867
+Avg Trade Duration: 18 days 01:51:18.260869565
+Total Trades: 69
+Total Profit: 16718.78
+Profit Per Year:
+  2020: -4614.50
+  2021: -2957.09
+  2022: 9483.25
+  2023: 6679.02
+  2024: 8278.28
+  2025: -150.18
+Total Buy Trades: 44
+Total Sell Trades: 25
+Profit Loss By Pair: 16718.78
+Max Loss: -3753.16
+Avg Win: 530.9876190476191
+Avg Loss: -2788.906666666667
+
+--- Analysis for: GBPAUD_NZDCAD ---
+Pair: GBPAUD_NZDCAD
+Sharpe Ratio: 0.15352151980615733
+Volatility: 1836.9604038327361
+Avg Trade Duration: 7 days 10:44:15.704697986
+Total Trades: 149
+Total Profit: 42019.929999999986
+Profit Per Year:
+  2021: 16086.30
+  2022: -9475.08
+  2023: 7803.72
+  2024: 13077.19
+  2025: 14527.80
+Total Buy Trades: 93
+Total Sell Trades: 56
+Profit Loss By Pair: 42019.929999999986
+Max Loss: -15009.95
+Avg Win: 555.0928472222222
+Avg Loss: -7582.688000000002
+
+--- Analysis for: EURNZD_AUDJPY ---
+Pair: EURNZD_AUDJPY
+Sharpe Ratio: -0.012823378597447145
+Volatility: 1978.9747814351301
+Avg Trade Duration: 18 days 17:02:18.095238095
+Total Trades: 63
+Total Profit: -1598.760000000002
+Profit Per Year:
+  2021: -680.42
+  2022: 11050.87
+  2023: -667.70
+  2024: -6677.17
+  2025: -4624.34
+Total Buy Trades: 27
+Total Sell Trades: 36
+Profit Loss By Pair: -1598.760000000002
+Max Loss: -10542.28
+Avg Win: 569.1698214285715
+Avg Loss: -4781.7528571428575
+
+--- Analysis for: GBPAUD_NZDCHF ---
+Pair: GBPAUD_NZDCHF
+Sharpe Ratio: 0.20099092894073367
+Volatility: 1752.2186129744168
+Avg Trade Duration: 4 days 16:36:32.523364486
+Total Trades: 214
+Total Profit: 75366.53
+Profit Per Year:
+  2020: 2110.73
+  2021: 11114.56
+  2022: -2536.54
+  2023: 24903.72
+  2024: 26570.26
+  2025: 13203.80
+Total Buy Trades: 129
+Total Sell Trades: 85
+Profit Loss By Pair: 75366.53
+Max Loss: -15105.49
+Avg Win: 578.770857142857
+Avg Loss: -11543.8375
+
+--- Analysis for: EURAUD_AUDCAD ---
+Pair: EURAUD_AUDCAD
+Sharpe Ratio: 0.29855800399322213
+Volatility: 1032.872065386741
+Avg Trade Duration: 15 days 22:45:00
+Total Trades: 63
+Total Profit: 19427.45
+Profit Per Year:
+  2021: 5190.25
+  2022: 5384.90
+  2023: 828.13
+  2024: 8171.53
+  2025: -147.36
+Total Buy Trades: 36
+Total Sell Trades: 27
+Profit Loss By Pair: 19427.45
+Max Loss: -4405.09
+Avg Win: 537.0771666666667
+Avg Loss: -4265.7266666666665
+
+--- Analysis for: USDCAD_AUDJPY ---
+Pair: USDCAD_AUDJPY
+Sharpe Ratio: 0.13419430580836444
+Volatility: 1073.8382515960836
+Avg Trade Duration: 24 days 13:43:43.404255319
+Total Trades: 47
+Total Profit: 6772.84
+Profit Per Year:
+  2021: -1270.99
+  2022: -2106.51
+  2023: 6173.06
+  2024: 2181.41
+  2025: 1795.87
+Total Buy Trades: 25
+Total Sell Trades: 22
+Profit Loss By Pair: 6772.84
+Max Loss: -3694.35
+Avg Win: 533.3831707317073
+Avg Loss: -2515.978333333333
+
+--- Analysis for: USDJPY_EURCAD ---
+Pair: USDJPY_EURCAD
+Sharpe Ratio: 0.5505570882661585
+Volatility: 1048.3792350496158
+Avg Trade Duration: 6 days 08:26:25.714285714
+Total Trades: 42
+Total Profit: 24242.09
+Profit Per Year:
+  2023: 15627.85
+  2024: 12952.39
+  2025: -4338.15
+Total Buy Trades: 12
+Total Sell Trades: 30
+Profit Loss By Pair: 24242.09
+Max Loss: -5542.38
+Avg Win: 726.450487804878
+Avg Loss: -5542.38
+
+--- Analysis for: GBPUSD_USDCAD ---
+Pair: GBPUSD_USDCAD
+Sharpe Ratio: 0.48106010177788416
+Volatility: 782.7341584168647
+Avg Trade Duration: 11 days 21:38:46.086956521
+Total Trades: 69
+Total Profit: 25981.409999999996
+Profit Per Year:
+  2020: 12549.81
+  2021: -2145.78
+  2022: 4317.35
+  2023: 5284.79
+  2024: 1276.20
+  2025: 4699.04
+Total Buy Trades: 37
+Total Sell Trades: 32
+Profit Loss By Pair: 25981.409999999996
+Max Loss: -4700.04
+Avg Win: 533.8648484848486
+Avg Loss: -3084.556666666667
+
+--- Analysis for: AUDUSD_EURAUD ---
+Pair: AUDUSD_EURAUD
+Sharpe Ratio: 0.14737497475198177
+Volatility: 1151.9476104114963
+Avg Trade Duration: 20 days 18:25:22.500000
+Total Trades: 40
+Total Profit: 6790.73
+Profit Per Year:
+  2020: 1529.11
+  2021: -539.28
+  2022: 7433.61
+  2023: 185.46
+  2024: 5118.47
+  2025: -6936.64
+Total Buy Trades: 26
+Total Sell Trades: 14
+Profit Loss By Pair: 6790.73
+Max Loss: -5666.52
+Avg Win: 528.6754285714287
+Avg Loss: -2342.582
+
+--- Analysis for: AUDNZD_NZDCAD ---
+Pair: AUDNZD_NZDCAD
+Sharpe Ratio: 0.3739620346631475
+Volatility: 770.6813228117167
+Avg Trade Duration: 23 days 08:39:04.444444444
+Total Trades: 54
+Total Profit: 15563.099999999999
+Profit Per Year:
+  2021: 2635.97
+  2022: 5585.51
+  2023: 1205.62
+  2024: 2468.88
+  2025: 3667.12
+Total Buy Trades: 34
+Total Sell Trades: 20
+Profit Loss By Pair: 15563.099999999999
+Max Loss: -3061.54
+Avg Win: 529.974375
+Avg Loss: -1645.9449999999997
+
+--- Analysis for: GBPAUD_NZDJPY ---
+Pair: GBPAUD_NZDJPY
+Sharpe Ratio: 0.14086657838258868
+Volatility: 1770.898849128966
+Avg Trade Duration: 9 days 03:29:30
+Total Trades: 130
+Total Profit: 32429.860000000004
+Profit Per Year:
+  2020: 16893.41
+  2021: 5115.22
+  2022: 3941.85
+  2023: -2375.29
+  2024: 8114.60
+  2025: 740.07
+Total Buy Trades: 65
+Total Sell Trades: 65
+Profit Loss By Pair: 32429.860000000004
+Max Loss: -15015.0
+Avg Win: 551.6612000000001
+Avg Loss: -7305.557999999999
+
+--- Analysis for: EURUSD_GBPUSD ---
+Pair: EURUSD_GBPUSD
+Sharpe Ratio: -0.03180773255766552
+Volatility: 2425.8108884075823
+Avg Trade Duration: 6 days 10:09:54.136807817
+Total Trades: 307
+Total Profit: -23687.980000000003
+Profit Per Year:
+  2020: 7162.50
+  2021: -10502.54
+  2022: -6736.49
+  2023: 9041.05
+  2024: 10994.56
+  2025: -33647.06
+Total Buy Trades: 153
+Total Sell Trades: 154
+Profit Loss By Pair: -23687.980000000003
+Max Loss: -15334.28
+Avg Win: 368.3729391891892
+Avg Loss: -12066.033636363636
+
+--- Analysis for: EURNZD_AUDCHF ---
+Pair: EURNZD_AUDCHF
+Sharpe Ratio: 0.11218723196487265
+Volatility: 2028.09442061856
+Avg Trade Duration: 6 days 08:59:34.015748031
+Total Trades: 127
+Total Profit: 28895.839999999997
+Profit Per Year:
+  2020: 7637.48
+  2021: -12029.10
+  2022: -5215.88
+  2023: 8908.45
+  2024: 15500.34
+  2025: 14094.55
+Total Buy Trades: 69
+Total Sell Trades: 58
+Profit Loss By Pair: 28895.839999999997
+Max Loss: -15044.2
+Avg Win: 564.0339344262295
+Avg Loss: -7983.260000000002
+
+--- Analysis for: AUDUSD_USDCAD ---
+Pair: AUDUSD_USDCAD
+Sharpe Ratio: 0.32638147233684855
+Volatility: 854.3156224563489
+Avg Trade Duration: 18 days 19:01:16.744186046
+Total Trades: 43
+Total Profit: 11989.81
+Profit Per Year:
+  2020: 1308.66
+  2021: 1545.03
+  2022: 2529.05
+  2023: 6376.34
+  2024: 1842.33
+  2025: -1611.60
+Total Buy Trades: 23
+Total Sell Trades: 20
+Profit Loss By Pair: 11989.81
+Max Loss: -4180.79
+Avg Win: 520.2179487179488
+Avg Loss: -2074.6724999999997
+
+--- Analysis for: GBPNZD_NZDCAD ---
+Pair: GBPNZD_NZDCAD
+Sharpe Ratio: 0.15515881923472824
+Volatility: 1686.9389027760637
+Avg Trade Duration: 8 days 18:29:21.206896551
+Total Trades: 116
+Total Profit: 30362.239999999998
+Profit Per Year:
+  2021: 6295.37
+  2022: -7883.92
+  2023: 17637.89
+  2024: 6482.76
+  2025: 7830.14
+Total Buy Trades: 71
+Total Sell Trades: 45
+Profit Loss By Pair: 30362.239999999998
+Max Loss: -15024.84
+Avg Win: 569.3399090909091
+Avg Loss: -5377.525000000001
+
+--- Analysis for: USDCAD_AUDCHF ---
+Pair: USDCAD_AUDCHF
+Sharpe Ratio: 0.4932686415661125
+Volatility: 762.4527665289112
+Avg Trade Duration: 12 days 14:54:14.545454545
+Total Trades: 99
+Total Profit: 37233.31
+Profit Per Year:
+  2020: 1157.48
+  2021: 11144.77
+  2022: 5335.56
+  2023: 7415.46
+  2024: 6288.15
+  2025: 5891.89
+Total Buy Trades: 52
+Total Sell Trades: 47
+Profit Loss By Pair: 37233.31
+Max Loss: -4505.75
+Avg Win: 523.3465263157893
+Avg Loss: -3121.1525
+
+--- Analysis for: USDCHF_EURCAD ---
+Pair: USDCHF_EURCAD
+Sharpe Ratio: 0.38821891811498194
+Volatility: 832.0754505245077
+Avg Trade Duration: 14 days 09:14:46.238532110
+Total Trades: 109
+Total Profit: 35209.990000000005
+Profit Per Year:
+  2020: 3236.94
+  2021: 5548.86
+  2022: 8671.63
+  2023: 10415.41
+  2024: 4737.46
+  2025: 2599.69
+Total Buy Trades: 63
+Total Sell Trades: 46
+Profit Loss By Pair: 35209.990000000005
+Max Loss: -4898.31
+Avg Win: 526.5084158415842
+Avg Loss: -2245.92
+
+--- Analysis for: NZDUSD_GBPAUD ---
+Pair: NZDUSD_GBPAUD
+Sharpe Ratio: -0.035437978625625415
+Volatility: 1780.1662342030138
+Avg Trade Duration: 21 days 06:29:09.295774648
+Total Trades: 71
+Total Profit: -4479.070000000001
+Profit Per Year:
+  2020: 491.86
+  2021: 867.83
+  2022: -2733.95
+  2023: 1195.45
+  2024: 5893.30
+  2025: -10193.56
+Total Buy Trades: 43
+Total Sell Trades: 28
+Profit Loss By Pair: -4479.070000000001
+Max Loss: -7427.61
+Avg Win: 529.3980952380953
+Avg Loss: -4728.893749999999
+
+--- Analysis for: EURUSD_USDCAD ---
+Pair: EURUSD_USDCAD
+Sharpe Ratio: 0.35268326624851604
+Volatility: 822.1858369553366
+Avg Trade Duration: 16 days 07:30:30.508474576
+Total Trades: 59
+Total Profit: 17108.3
+Profit Per Year:
+  2020: 3549.02
+  2021: 1936.96
+  2022: -854.52
+  2023: 9133.01
+  2024: 1893.30
+  2025: 1450.53
+Total Buy Trades: 31
+Total Sell Trades: 28
+Profit Loss By Pair: 17108.3
+Max Loss: -3677.18
+Avg Win: 532.1301886792452
+Avg Loss: -1849.0999999999997
+
+--- Analysis for: USDJPY_NZDCAD ---
+Pair: USDJPY_NZDCAD
+Sharpe Ratio: 0.24922947632085954
+Volatility: 1252.8137907653536
+Avg Trade Duration: 9 days 05:35:00
+Total Trades: 32
+Total Profit: 9991.619999999999
+Profit Per Year:
+  2023: 6580.78
+  2024: 6590.44
+  2025: -3179.60
+Total Buy Trades: 13
+Total Sell Trades: 19
+Profit Loss By Pair: 9991.619999999999
+Max Loss: -5096.84
+Avg Win: 625.3956666666668
+Avg Loss: -4385.125
+
+--- Analysis for: USDCAD_NZDUSD ---
+Pair: USDCAD_NZDUSD
+Sharpe Ratio: 0.3707213709196139
+Volatility: 783.2608563710285
+Avg Trade Duration: 15 days 04:27:30
+Total Trades: 52
+Total Profit: 15099.32
+Profit Per Year:
+  2020: 6434.84
+  2021: 257.60
+  2022: 2251.35
+  2023: 2885.06
+  2024: -295.56
+  2025: 3566.03
+Total Buy Trades: 36
+Total Sell Trades: 16
+Profit Loss By Pair: 15099.32
+Max Loss: -2902.22
+Avg Win: 526.0304255319148
+Avg Loss: -1924.8219999999997
+
+--- Analysis for: EURGBP_GBPCAD ---
+Pair: EURGBP_GBPCAD
+Sharpe Ratio: 0.04728967950509054
+Volatility: 1475.4466668036773
+Avg Trade Duration: 32 days 16:16:42
+Total Trades: 50
+Total Profit: 3488.6700000000005
+Profit Per Year:
+  2020: -189.56
+  2021: 100.71
+  2023: 2309.41
+  2024: 2024.26
+  2025: -756.15
+Total Buy Trades: 31
+Total Sell Trades: 19
+Profit Loss By Pair: 3488.6700000000005
+Max Loss: -5929.89
+Avg Win: 528.1075555555556
+Avg Loss: -4055.2340000000004
+
+--- Analysis for: USDCAD_CADJPY ---
+Pair: USDCAD_CADJPY
+Sharpe Ratio: 0.09918689556564346
+Volatility: 1330.773117603339
+Avg Trade Duration: 22 days 07:29:24.406779661
+Total Trades: 59
+Total Profit: 7787.720000000001
+Profit Per Year:
+  2020: 4066.05
+  2021: 1430.22
+  2022: -5856.28
+  2023: 4559.84
+  2024: 5702.07
+  2025: -2114.18
+Total Buy Trades: 29
+Total Sell Trades: 30
+Profit Loss By Pair: 7787.720000000001
+Max Loss: -6056.57
+Avg Win: 529.375
+Avg Loss: -2819.968571428571
+
+--- Analysis for: EURAUD_NZDCHF ---
+Pair: EURAUD_NZDCHF
+Sharpe Ratio: 0.058638732824673225
+Volatility: 2171.0808826451007
+Avg Trade Duration: 11 days 23:58:51.818181818
+Total Trades: 88
+Total Profit: 11203.229999999996
+Profit Per Year:
+  2020: -1321.89
+  2021: 3267.95
+  2022: -18928.80
+  2023: 10701.93
+  2024: 14476.94
+  2025: 3007.10
+Total Buy Trades: 53
+Total Sell Trades: 35
+Profit Loss By Pair: 11203.229999999996
+Max Loss: -15162.06
+Avg Win: 567.7435365853659
+Avg Loss: -5891.956666666666
+
+--- Analysis for: GBPAUD_AUDCAD ---
+Pair: GBPAUD_AUDCAD
+Sharpe Ratio: 0.36772703690367825
+Volatility: 1063.2626548869457
+Avg Trade Duration: 8 days 09:00:06.382978723
+Total Trades: 94
+Total Profit: 36753.09999999999
+Profit Per Year:
+  2021: 10282.44
+  2022: 10165.42
+  2023: 4131.83
+  2024: 13964.59
+  2025: -1791.18
+Total Buy Trades: 65
+Total Sell Trades: 29
+Profit Loss By Pair: 36753.09999999999
+Max Loss: -8556.41
+Avg Win: 540.1918478260869
+Avg Loss: -6472.275
+
+--- Analysis for: USDCHF_NZDUSD ---
+Pair: USDCHF_NZDUSD
+Sharpe Ratio: -0.23188338426573288
+Volatility: 2187.4005260912945
+Avg Trade Duration: 31 days 22:51:56.326530612
+Total Trades: 49
+Total Profit: -24853.870000000003
+Profit Per Year:
+  2020: -2541.47
+  2021: 2270.30
+  2022: -11821.45
+  2023: -5335.55
+  2024: -641.68
+  2025: -6784.02
+Total Buy Trades: 28
+Total Sell Trades: 21
+Profit Loss By Pair: -24853.870000000003
+Max Loss: -9944.71
+Avg Win: 528.9937837837838
+Avg Loss: -3702.22
+
+--- Analysis for: USDCHF_GBPCAD ---
+Pair: USDCHF_GBPCAD
+Sharpe Ratio: -0.06539328903139038
+Volatility: 1886.7354417109746
+Avg Trade Duration: 30 days 04:48:31.475409836
+Total Trades: 61
+Total Profit: -7526.17
+Profit Per Year:
+  2020: 1570.09
+  2021: -2225.94
+  2023: 3252.32
+  2024: 3109.76
+  2025: -13232.40
+Total Buy Trades: 22
+Total Sell Trades: 39
+Profit Loss By Pair: -7526.17
+Max Loss: -9921.66
+Avg Win: 549.6251923076923
+Avg Loss: -4011.8533333333335
+
+--- Analysis for: NZDUSD_EURAUD ---
+Pair: NZDUSD_EURAUD
+Sharpe Ratio: -0.018191541555127144
+Volatility: 1479.3774777795065
+Avg Trade Duration: 27 days 06:58:14.117647059
+Total Trades: 51
+Total Profit: -1372.5199999999988
+Profit Per Year:
+  2020: -3250.92
+  2021: 2407.24
+  2022: -938.49
+  2023: 3051.92
+  2024: -4206.96
+  2025: 1564.69
+Total Buy Trades: 33
+Total Sell Trades: 18
+Profit Loss By Pair: -1372.5199999999988
+Max Loss: -6622.94
+Avg Win: 533.053953488372
+Avg Loss: -3036.7299999999996
+
+--- Analysis for: USDCHF_NZDCAD ---
+Pair: USDCHF_NZDCAD
+Sharpe Ratio: -0.027346801831168215
+Volatility: 1768.8303060257867
+Avg Trade Duration: 16 days 05:10:55.555555555
+Total Trades: 81
+Total Profit: -3918.119999999997
+Profit Per Year:
+  2021: -748.21
+  2022: 15239.21
+  2023: -1482.41
+  2024: -12324.24
+  2025: -4602.47
+Total Buy Trades: 42
+Total Sell Trades: 39
+Profit Loss By Pair: -3918.119999999997
+Max Loss: -7638.82
+Avg Win: 526.5713888888889
+Avg Loss: -4647.917777777778
+
+--- Analysis for: EURAUD_NZDJPY ---
+Pair: EURAUD_NZDJPY
+Sharpe Ratio: 0.15717711688079225
+Volatility: 1583.4674302467733
+Avg Trade Duration: 13 days 02:18:39.587628866
+Total Trades: 97
+Total Profit: 24141.83000000001
+Profit Per Year:
+  2020: -3609.75
+  2021: 5782.86
+  2022: 3395.25
+  2023: 3491.12
+  2024: 10304.73
+  2025: 4777.62
+Total Buy Trades: 41
+Total Sell Trades: 56
+Profit Loss By Pair: 24141.83000000001
+Max Loss: -10229.14
+Avg Win: 550.4680645161291
+Avg Loss: -6762.925
+
+--- Analysis for: USDCAD_CADCHF ---
+Pair: USDCAD_CADCHF
+Sharpe Ratio: 0.04145919306251059
+Volatility: 1550.0085871489582
+Avg Trade Duration: 17 days 04:33:41.052631579
+Total Trades: 76
+Total Profit: 4883.920000000003
+Profit Per Year:
+  2020: -552.73
+  2021: -7886.91
+  2022: 6176.18
+  2023: 8297.82
+  2024: 987.58
+  2025: -2138.02
+Total Buy Trades: 36
+Total Sell Trades: 40
+Profit Loss By Pair: 4883.920000000003
+Max Loss: -7083.89
+Avg Win: 535.0802941176471
+Avg Loss: -3937.6925
+
+--- Analysis for: USDJPY_NZDUSD ---
+Pair: USDJPY_NZDUSD
+Sharpe Ratio: 2.7403415032113942
+Volatility: 236.35405133539183
+Avg Trade Duration: 5 days 19:29:17.142857142
+Total Trades: 49
+Total Profit: 31736.850000000002
+Profit Per Year:
+  2020: 1276.58
+  2021: 582.08
+  2023: 8385.88
+  2024: 12672.08
+  2025: 8820.23
+Total Buy Trades: 19
+Total Sell Trades: 30
+Profit Loss By Pair: 31736.850000000002
+Max Loss: 0
+Avg Win: 647.6908163265307
+Avg Loss: 0
+
+--- Analysis for: GBPNZD_AUDCHF ---
+Pair: GBPNZD_AUDCHF
+Sharpe Ratio: 0.13902051428702086
+Volatility: 2017.08303991512
+Avg Trade Duration: 4 days 10:58:12.941176470
+Total Trades: 255
+Total Profit: 71506.06
+Profit Per Year:
+  2020: -12703.11
+  2021: -1868.67
+  2022: 13117.01
+  2023: 48537.64
+  2024: 14678.14
+  2025: 9745.05
+Total Buy Trades: 144
+Total Sell Trades: 111
+Profit Loss By Pair: 71506.06
+Max Loss: -15050.68
+Avg Win: 580.3343145161291
+Avg Loss: -10345.264285714287
+
+--- Analysis for: AUDUSD_GBPAUD ---
+Pair: AUDUSD_GBPAUD
+Sharpe Ratio: 0.006512675143174874
+Volatility: 1460.4951974610358
+Avg Trade Duration: 23 days 06:16:03.461538461
+Total Trades: 52
+Total Profit: 494.60999999999984
+Profit Per Year:
+  2020: -1690.66
+  2021: 3738.82
+  2022: -4638.70
+  2023: 2649.33
+  2024: 2587.22
+  2025: -2151.40
+Total Buy Trades: 32
+Total Sell Trades: 20
+Profit Loss By Pair: 494.60999999999984
+Max Loss: -5313.2
+Avg Win: 527.5613333333333
+Avg Loss: -3320.8071428571425
+
+--- Analysis for: EURNZD_NZDCAD ---
+Pair: EURNZD_NZDCAD
+Sharpe Ratio: 0.10250258167784945
+Volatility: 1523.0694502436568
+Avg Trade Duration: 11 days 14:22:40.869565217
+Total Trades: 69
+Total Profit: 10772.18
+Profit Per Year:
+  2021: 2725.06
+  2022: 2094.46
+  2023: 2221.55
+  2024: 6190.95
+  2025: -2459.84
+Total Buy Trades: 42
+Total Sell Trades: 27
+Profit Loss By Pair: 10772.18
+Max Loss: -8337.24
+Avg Win: 548.611875
+Avg Loss: -4867.796
+
